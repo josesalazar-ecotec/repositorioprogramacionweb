@@ -12,6 +12,34 @@
 
 <main>
 
+    <nav>
+        <a href="#sobre-mi">Sobre mí</a>
+        <a href="#intereses">Intereses</a>
+        <a href="#formacion">Formación</a>
+        <a href="#contacto">Contacto</a>
+    </nav>
+
+    <section id="sobre-mi">
+        <h2>Sobre mí</h2>
+        <p>Soy estudiante de programación web en la Universidad ECOTEC.</p>
+    </section>
+
+    <section id="intereses">
+        <h2>Intereses</h2>
+        <ul>
+            <li>Programar</li>
+            <li>Videojuegos</li>
+            <li>Música</li>
+            <li>Deportes</li>
+        </ul>
+    </section>
+
+    <section id="formacion">
+        <h2>Formación</h2>
+        <p>Estoy aprendiendo HTML.</p>
+        <p>Me gustaría aprender desarrollo web completo.</p>
+    </section>
+
 </main>
 
 <footer>
