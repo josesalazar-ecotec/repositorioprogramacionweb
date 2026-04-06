@@ -21,6 +21,7 @@
 
     <section id="sobre-mi">
         <h2>Sobre mí</h2>
+        <img src="img/FotoCarnet.JPG" alt="Mi foto" width="150">
         <p>Soy estudiante de programación web en la Universidad ECOTEC.</p>
     </section>
 
@@ -39,7 +40,23 @@
         <p>Estoy aprendiendo HTML.</p>
         <p>Me gustaría aprender desarrollo web completo.</p>
     </section>
+<section id="contacto">
+    <h2>Contacto</h2>
+    <p>Puedes contactarme a través del siguiente formulario:</p>
 
+    <form>
+        <label>Nombre:</label><br>
+        <input type="text"><br><br>
+
+        <label>Correo:</label><br>
+        <input type="email"><br><br>
+
+        <label>Mensaje:</label><br>
+        <textarea></textarea><br><br>
+
+        <button type="submit">Enviar</button>
+    </form>
+</section>
 </main>
 
 <footer>
